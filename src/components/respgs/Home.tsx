@@ -36,7 +36,7 @@ export default function Home() {
         <Styledglobal title="Home">
             <StyledDiv>
                 <h2>Welcome to My Resume</h2>
-                <ProfileImage src="../public/profile.jpg" alt="Lucy Schofield" />
+                <ProfileImage src="../assets/profile.jpg" alt="Lucy Schofield" />
                 <Content>
                     <p>
                         A driven and hardworking student majoring in Computer Science at Boston University.
